@@ -1,17 +1,43 @@
-# Manjusha18/Manjusha18
-### Hi there 👋
+<html>
+    <head >
 
-<!--
-**Manjusha18/Manjusha18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      
+        <link rel="stylesheet" type="text/css" href="mystylecss.css">
+        <h1> <b> GAME </b></h1>
+        <p> easy game to play</p>
+    
+        
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<style>
 
-Here are some ideas to get you started:
+canvas {
+    border:2px solid #f50a0a;
+    background-color: #e4ee5c;
+}
+</style>
+   
+    </head>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+    <script type = "text/javascript" src="javascript.js"></script> 
+</script>
+    <body onload="startGame()" >
+
+
+
+  <br>
+  <button onmousedown="accelerate(-0.2)" onmouseup="accelerate(0.05)">ACCELERATE</button>
+  <p>Use the ACCELERATE button to stay in the air</p>
+  <p>How long can you stay alive?</p>
+
+  <p><button><a href="https://www.google.com/" target="_blank">Google Search</a></button></p>
+
+        <p>
+            <button><a href=  https://glitch.com/edit/#!/flaxen-nickel-school?path=index.html%3A11%3A9>my profile in glitch </a> </button></p>
+            <p><a href="https://www.tutorialrepublic.com/">Tutorial Republic</a></p>
+        <p><a href="https://wallpapercave.com/doraemon-hd-wallpapers">doraemon images</a></p>
+
+    
+
+    </body>
+</html>
