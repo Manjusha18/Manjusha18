@@ -24,18 +24,20 @@ canvas {
     <body onload="startGame()" >
 
 
-
   <br>
   <button onmousedown="accelerate(-0.2)" onmouseup="accelerate(0.05)">ACCELERATE</button>
   <p>Use the ACCELERATE button to stay in the air</p>
   <p>How long can you stay alive?</p>
-
-  <p><button><a href="https://www.google.com/" target="_blank">Google Search</a></button></p>
-
-        <p>
-            <button><a href=  https://glitch.com/edit/#!/flaxen-nickel-school?path=index.html%3A11%3A9>my profile in glitch </a> </button></p>
-            <p><a href="https://www.tutorialrepublic.com/">Tutorial Republic</a></p>
-        <p><a href="https://wallpapercave.com/doraemon-hd-wallpapers">doraemon images</a></p>
+ 
+    <p>  game instructions(help):
+    when the abstacles are come that time you need to click in the accelerete button
+        then the red box will bounce up .
+        if you release or not click on the button the red box will come to down 
+        if the red box is touches the abstacle then the game is over
+        
+        if you reload the page the game is restarts
+    </p>
+  
 
     
 
